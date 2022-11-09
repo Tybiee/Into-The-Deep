@@ -9,6 +9,5 @@ public class IntoTheDeep implements ModInitializer
     @Override
     public void onInitialize()
     {
-        System.out.println("uwu");
     }
 }
