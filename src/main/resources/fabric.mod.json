@@ -20,9 +20,13 @@
   "entrypoints": {
     "main": [
       "com.tybie.intothedeep.IntoTheDeep"
+    ],
+    "client": [
+      "com.tybie.intothedeep.IntoTheDeepClient"
     ]
   },
   "mixins": [
+      "intothedeep.mixins.json"
   ],
 
   "depends": {
