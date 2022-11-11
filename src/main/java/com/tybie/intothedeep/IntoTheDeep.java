@@ -18,6 +18,5 @@ public class IntoTheDeep implements ModInitializer
         ModBlocks.registerModBlocks();
         ModItems.registerModItems();
         ModTools.registerModTools();
-
     }
 }
